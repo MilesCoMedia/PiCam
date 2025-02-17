@@ -1,6 +1,7 @@
 # PiCam and PiCam Connect
 
-![Alt text](https://github.com/Tys0nat0r01/PiCam/blob/main/CONNECT.png))
+![Alt text](https://github.com/Tys0nat0r01/PiCam/blob/main/CONNECT.png)
+
 PiCam is a completely Open Source and affordable dashcam system that can be easliy integrated into any vehicle. 
 
 ## **Description**
@@ -15,11 +16,13 @@ PiCam is a fully open-source and budget-friendly dashcam system designed for sea
 
 ## **Getting Started**
 
-This section outlines the steps required to set up the project locally.  Include instructions for installation, dependencies, and any initial configuration.  Be clear and specific, providing code examples where necessary. For example:
+Firstly, PiCam requires a **Raspberry Pi Zero**, A **Camera Module that supports PiCamera**, and a Minimum of **64GB Micro SD Card** as hardware.
+PiCam will also need to have its **Micro SD Card** Flashed with the latest version of **Raspberry Pi OS Lite (Bullsye)**. You can use Raspberry Pi Imager for this: [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
+
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/my-awesome-project.git](https://www.google.com/search?q=https://github.com/your-username/my-awesome-project.git)
+
 
 # Navigate to the project directory
 cd my-awesome-project
