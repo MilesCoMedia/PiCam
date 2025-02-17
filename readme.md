@@ -7,7 +7,7 @@ PiCam is a completely Open Source and affordable dashcam system that can be easl
 
 PiCam is a fully open-source and budget-friendly dashcam system designed for seamless integration into any vehicle.  Unlike proprietary dashcam solutions, PiCam leverages the power and flexibility of the Raspberry Pi, making it an accessible and customizable option for drivers seeking reliable video recording and potentially other advanced features.  Because it's open source, users have complete control over the software and hardware, allowing them to tailor the system to their specific needs and contribute to its ongoing development.  The affordability of PiCam stems from its use of readily available components and the absence of licensing fees typically associated with commercial dashcam products.  This combination of open-source nature, affordability, and ease of integration makes PiCam an attractive alternative for those looking for a versatile and cost-effective dashcam solution.
 
-> ###** Note **###
+ >### Note ###
 > The "PiCam Connect iOS app and Hardware" is still under development. So, if you find any bugs or have any suggestion, feel free to post an issue or a pull request.
 
 
