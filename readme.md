@@ -1,6 +1,7 @@
-# My Awesome Project
+# PiCam and PiCam Connect
 
-This README provides an overview of my project, how to get started, usage instructions, and contribution guidelines.
+The PiCam Project was started to fill the gap for affordable and completely open-source DashCam options in the market. Understanding the importance of a clear and budget-friendly solution, the project focused on creating a DashCam system using the Raspberry Pi camera module and Raspberry Pi Zero, celebrated for its ease of access and affordability. By utilizing open-source software and hardware, PiCam aims to give users the freedom to personalize and adapt their devices to suit their unique requirements and tastes, free from the limitations of proprietary systems. 
+
 
 ## **Description**
 
