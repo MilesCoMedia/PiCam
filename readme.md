@@ -1,7 +1,8 @@
 # PiCam and PiCam Connect
 
-The PiCam Project was started to fill the gap for affordable and completely open-source DashCam options in the market. Understanding the importance of a clear and budget-friendly solution, the project focused on creating a DashCam system using the Raspberry Pi camera module and Raspberry Pi Zero, celebrated for its ease of access and affordability. By utilizing open-source software and hardware, PiCam aims to give users the freedom to personalize and adapt their devices to suit their unique requirements and tastes, free from the limitations of proprietary systems. 
+PiCam is a completely Open Source and affordable dashcam system that can be easliy integrated into any vehicle. 
 
+![Alt text]([image URL](https://drive.google.com/file/d/1B21FvpwfBxCPnmo95JZGARGY52clBrRJ/view?usp=sharing))
 
 ## **Description**
 
