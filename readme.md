@@ -1,14 +1,17 @@
 # PiCam and PiCam Connect
 
-PiCam is a completely Open Source and affordable dashcam system that can be easliy integrated into any vehicle. 
-
 ![Alt text](https://github.com/Tys0nat0r01/PiCam/blob/main/CONNECT.png))
+PiCam is a completely Open Source and affordable dashcam system that can be easliy integrated into any vehicle. 
 
 ## **Description**
 
-This section provides a high-level overview of the project.  Explain what the project does, its purpose, and the problem it solves.  Keep it concise and engaging to capture the reader's interest.  For example:
+PiCam is a fully open-source and budget-friendly dashcam system designed for seamless integration into any vehicle.  Unlike proprietary dashcam solutions, PiCam leverages the power and flexibility of the Raspberry Pi, making it an accessible and customizable option for drivers seeking reliable video recording and potentially other advanced features.  Because it's open source, users have complete control over the software and hardware, allowing them to tailor the system to their specific needs and contribute to its ongoing development.  The affordability of PiCam stems from its use of readily available components and the absence of licensing fees typically associated with commercial dashcam products.  This combination of open-source nature, affordability, and ease of integration makes PiCam an attractive alternative for those looking for a versatile and cost-effective dashcam solution.
 
-> My Awesome Project is a Python library that simplifies data analysis tasks. It provides a set of powerful functions for data cleaning, transformation, and visualization, making it easier for users to gain insights from their data.  It aims to be faster and more intuitive than existing solutions.
+> ###** Note **###
+> The "PiCam Connect iOS app and Hardware" is still under development. So, if you find any bugs or have any suggestion, feel free to post an issue or a pull request.
+
+
+> 
 
 ## **Getting Started**
 
