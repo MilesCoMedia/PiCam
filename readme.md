@@ -2,7 +2,7 @@
 
 PiCam is a completely Open Source and affordable dashcam system that can be easliy integrated into any vehicle. 
 
-![Alt text]([image URL](https://drive.google.com/file/d/1B21FvpwfBxCPnmo95JZGARGY52clBrRJ/view?usp=sharing))
+![Alt text](https://github.com/Tys0nat0r01/PiCam/blob/main/CONNECT.png))
 
 ## **Description**
 
