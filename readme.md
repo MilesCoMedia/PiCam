@@ -10,7 +10,7 @@
 PiCam is an affordable dashcam system that can be run on any Raspberry Pi 
 and Raspberry Pi compatible camera and can be easliy integrated into any vehicle. 
 
-## **Description**
+## **Introduction**
 
 PiCam is a fully open-source and budget-friendly dashcam system designed for seamless integration into any vehicle.  Unlike proprietary dashcam solutions, PiCam leverages the power and flexibility of the Raspberry Pi, making it an accessible and customizable option for drivers seeking reliable video recording and potentially other advanced features.  Because it's open source, users have complete control over the software and hardware, allowing them to tailor the system to their specific needs and contribute to its ongoing development.  The affordability of PiCam stems from its use of readily available components and the absence of licensing fees typically associated with commercial dashcam products.  This combination of open-source nature, affordability, and ease of integration makes PiCam an attractive alternative for those looking for a versatile and cost-effective dashcam solution.
 
@@ -25,9 +25,11 @@ PiCam is a fully open-source and budget-friendly dashcam system designed for sea
 Firstly, PiCam requires a **Raspberry Pi Zero**, A **Camera Module that supports PiCamera**, and a Minimum of **64GB Micro SD Card** as hardware.
 PiCam will also need to have its **Micro SD Card** Flashed with the latest version of **Raspberry Pi OS Lite (Bullsye)**. You can use Raspberry Pi Imager for this: [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
 
+### Step 1
+Install Raspberry Pi OS Lite (Bullsye) Edition on a Raspberry Pi (Zero, Zero W, or 3A+ or newer) using Raspberry Pi Imager [Windows Download](https://downloads.raspberrypi.org/imager/imager_latest.exe) [MacOS Download](https://downloads.raspberrypi.org/imager/imager_latest.dmg)
 
 ```bash
-# Clone the repository
+
 
 
 # Navigate to the project directory
