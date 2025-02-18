@@ -26,10 +26,11 @@ Firstly, PiCam requires a **Raspberry Pi Zero**, A **Camera Module that supports
 PiCam will also need to have its **Micro SD Card** Flashed with the latest version of **Raspberry Pi OS Lite (Bullsye)**. You can use Raspberry Pi Imager for this: [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
 
 ### Step 1
-## 1A
+**1A**
 Install Raspberry Pi OS Lite (Bullsye) Edition onto an Micro SD Card using Raspberry Pi Imager, [Windows Download](https://downloads.raspberrypi.org/imager/imager_latest.exe) [MacOS Download](https://downloads.raspberrypi.org/imager/imager_latest.dmg)
 ![Image of installing PiOs lite onto sd card](https://github.com/Tys0nat0r01/PiCam/blob/main/Raspberry%20Pi%20Zero.png)
-## 1B
+
+**1B**
 > You may need to use a MicroSD card adapter to insert the SD Card into your Computer
 Once you have installed Raspberry Pi OS Lite onto the SD Card, insert the MicroSD into the MicroSD card slot on a Raspberry Pi (Zero, Zero W, or 3A+ or newer). 
 
