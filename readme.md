@@ -27,14 +27,33 @@ PiCam will also need to have its **Micro SD Card** Flashed with the latest versi
 
 ### Step 1
 **1A**
-Install Raspberry Pi OS Lite (Bullsye) Edition onto an Micro SD Card using Raspberry Pi Imager, [Windows Download](https://downloads.raspberrypi.org/imager/imager_latest.exe) [MacOS Download](https://downloads.raspberrypi.org/imager/imager_latest.dmg)
-![Image of installing PiOs lite onto sd card](https://github.com/Tys0nat0r01/PiCam/blob/main/Raspberry%20Pi%20Zero.png)
+Install Raspberry Pi OS Lite (Bullsye) Edition onto an Micro SD Card using Raspberry Pi Imager. [Windows Download](https://downloads.raspberrypi.org/imager/imager_latest.exe) [MacOS Download](https://downloads.raspberrypi.org/imager/imager_latest.dmg)
+1. Click 'Choose OS' and find select 'Raspberry Pi OS (Other)'.
+2. Find and select 'Raspberry Pi OS Lite (32 BIT)' or 'Raspberry Pi OS Lite (64 BIT)'
+3. Insert your SD Card and select 'Choose Storage' then select your MicroSD Card.
+4. Click 'NEXT' and an Options Menu will show, set the 'Hostname' to 'PiCam', and set both the 'Username' and 'Password' to 'picam' (all lowercase)
+5. Then configure your Wi-Fi Network's SSID and Password.
+6. Then click 'SAVE' and click 'Write'. The Imager will begin to write the OS to the Micro SD card. **DO NOT UNPLUG THE SD CARD OR CLOSE THE IMAGER UNTIL IT INDICATES THE WRITE IS COMPLETE**
+   
+> You may need to use a MicroSD card adapter to insert the SD Card into your Computer
+> NOTE: Your Micro SD Card may display as 'Generic Media Device (capacity'. To ensure you are selecting the right storage device, compare the storage capacity on the SD Card to what is displayed
 
 **1B**
 > You may need to use a MicroSD card adapter to insert the SD Card into your Computer
-Once you have installed Raspberry Pi OS Lite onto the SD Card, insert the MicroSD into the MicroSD card slot on a Raspberry Pi (Zero, Zero W, or 3A+ or newer). 
+Once you have installed Raspberry Pi OS Lite onto the SD Card, insert the MicroSD into the MicroSD card slot on a Raspberry Pi (Zero, Zero W, or 3A+ or newer) and attach a compatible Raspberry Pi Camera [List of Compatible Cameras](enter link).
+Then plug in a Micro USB cable to the Raspberry Pi's **POWER or PWR** Port, then power it on.
 
+### Step 2
 
+**2A**
+Ensure your Raspberry Pi booted correctly plug a HDMI cable into your Raspberry Pi, if the Raspberry Pi displays 
+> You may need to use a Mini HDMI to HDMI adapter 
+**Install required Packages and Dependencies*
+
+Firs
+```bash
+
+```
 ```bash
 
 
