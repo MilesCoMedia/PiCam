@@ -1,0 +1,104 @@
+---
+name: "iOS Bug Report"
+about: "File a detailed report for an iOS-related issue."
+title: "[BUG] Brief description of the issue"
+labels: ["iOS-bug", "Made by User", "BETA", "bug"]
+assignees: ''
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## iOS Bug Report
+        Thank you for taking the time to help improve PiCam Connect. Please fill out the following fields as completely and accurately as possible.
+
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      description: A clear and concise description of the issue.
+      placeholder: "Brief overview of the problem."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: Provide a detailed list of steps that cause the issue.
+      placeholder: |
+        1. Open the app
+        2. Navigate to Settings
+        3. Tap on 'Connect'
+        4. Observe the crash
+      render: bash
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-results
+    attributes:
+      label: Expected Results
+      description: What did you expect to happen?
+      placeholder: "The app should connect to the camera without crashing."
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual-results
+    attributes:
+      label: Actual Results
+      description: What actually happened?
+      placeholder: "The app crashes with a 'Connection Timeout' error."
+    validations:
+      required: true
+
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots or Video
+      description: If possible, include screenshots or a screen recording to help illustrate the problem.
+      placeholder: "Attach images or a link to a video showing the bug."
+  
+  - type: input
+    id: device-info
+    attributes:
+      label: Device Information
+      description: Specify the device model.
+      placeholder: "e.g., iPhone 14 Pro Max"
+    validations:
+      required: true
+
+  - type: input
+    id: ios-version
+    attributes:
+      label: iOS Version
+      description: Specify the iOS version you are running.
+      placeholder: "e.g., iOS 17.4.1"
+    validations:
+      required: true
+
+  - type: input
+    id: app-version
+    attributes:
+      label: App Version
+      description: Specify the PiCam Connect app version.
+      placeholder: "e.g., 1.2.0-beta"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: reproducibility
+    attributes:
+      label: Reproducibility
+      description: How often does this issue occur?
+      options:
+        - label: Happens every time
+        - label: Happens occasionally
+        - label: Hard to reproduce
+
+  - type: textarea
+    id: additional-notes
+    attributes:
+      label: Additional Notes
+      description: Include any other context or relevant information.
+      placeholder: "Any logs, edge cases, or troubleshooting steps you have tried."
