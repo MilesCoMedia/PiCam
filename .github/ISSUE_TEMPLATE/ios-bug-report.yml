@@ -3,7 +3,6 @@ name: "iOS Bug Report"
 description: "File a detailed report for an iOS-related issue."
 title: "[BUG] Brief description of the issue"
 labels: ["iOS-bug", "Made by User", "BETA", "bug"]
-assignees: "    "
 body:
   - type: markdown
     attributes:
