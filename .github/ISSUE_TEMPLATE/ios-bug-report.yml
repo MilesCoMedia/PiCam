@@ -1,6 +1,6 @@
 ---
 name: "iOS Bug Report"
-about: "File a detailed report for an iOS-related issue."
+description: "File a detailed report for an iOS-related issue."
 title: "[BUG] Brief description of the issue"
 labels: ["iOS-bug", "Made by User", "BETA", "bug"]
 assignees: ''
