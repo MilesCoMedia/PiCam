@@ -1,14 +1,14 @@
 ---
 name: "iOS Bug Report"
-description: "File a detailed report for an iOS-related issue."
+description: "Use this to report bugs in our iOS software."
 title: "[BUG] Brief description of the issue"
 labels: ["iOS-bug", "Made by User", "BETA", "bug"]
 body:
   - type: markdown
     attributes:
       value: |
-        ## iOS Bug Report
-        Thank you for taking the time to help improve PiCam Connect. Please fill out the following fields as completely and accurately as possible.
+        ## PiCam Connect iOS App Bug Report
+        Thank you for taking the time to help us improve PiCam Connect. Please fill out the following fields as completely and accurately as possible.
 
   - type: input
     id: summary
@@ -40,7 +40,7 @@ body:
       description: What did you expect to happen?
       placeholder: "The app should connect to the camera without crashing."
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: actual-results
@@ -49,7 +49,7 @@ body:
       description: What actually happened?
       placeholder: "The app crashes with a 'Connection Timeout' error."
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: media
@@ -83,7 +83,7 @@ body:
       description: Specify the PiCam Connect app version.
       placeholder: "e.g., 1.2.0-beta"
     validations:
-      required: true
+      required: false
 
   - type: checkboxes
     id: reproducibility
