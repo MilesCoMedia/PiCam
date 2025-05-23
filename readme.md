@@ -1,8 +1,4 @@
 
-### We need YOUR help, to continue developing PiCam and PiCam Connect, we have to get Apple Developer Program Certification to be able to push PiCam Connect to the App Store! This costs $99USD and our budget has been already spent developing PiCam to the level it is at today. 
-## Just a small donation ($2USD) is enough to help us reach our goal. [Donate Here](https://square.link/u/odWVVRI8)
-
-
 # PiCam and PiCam Connect
 
 ![Alt text](https://github.com/Tys0nat0r01/PiCam/blob/main/CONNECT.png)
