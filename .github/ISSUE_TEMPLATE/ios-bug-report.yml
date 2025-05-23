@@ -9,6 +9,7 @@ body:
       value: |
         ## PiCam Connect iOS App Bug Report
         Thank you for taking the time to help us improve PiCam Connect. Please fill out the following fields as completely and accurately as possible.
+
 - type: input
     id: contact-email
     attributes:
