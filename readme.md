@@ -1,9 +1,21 @@
 
-### We need YOUR help, to continue developing PiCam and PiCam Connect, we have to get Apple Developer Program Certification to be able to push PiCam Connect to the App Store! This costs $99USD and our budget has been already spent developing PiCam to the level it is at today. 
-## Just a small donation ($2USD) is enough to help us reach our goal. [Donate Here](https://square.link/u/odWVVRI8)
-
-
 # PiCam and PiCam Connect
+
+<a href="https://www.buymeacoffee.com/tysonm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 ![Alt text](https://github.com/Tys0nat0r01/PiCam/blob/main/CONNECT.png)
 
@@ -33,10 +45,15 @@ Install Raspberry Pi OS Lite (Bullsye) Edition onto an Micro SD Card using Raspb
 3. Insert your SD Card and select 'Choose Storage' then select your MicroSD Card.
 4. Click 'NEXT' and an Options Menu will show, set the 'Hostname' to 'PiCam', and set both the 'Username' and 'Password' to 'picam' (all lowercase)
 5. Then configure your Wi-Fi Network's SSID and Password.
-6. Then click 'SAVE' and click 'Write'. The Imager will begin to write the OS to the Micro SD card. **DO NOT UNPLUG THE SD CARD OR CLOSE THE IMAGER UNTIL IT INDICATES THE WRITE IS COMPLETE**
-   
+6. Then click 'SAVE' and click 'Write'. The Imager will begin to write the OS to the Micro SD card.
+> [!WARNING]
+> DO NOT UNPLUG THE SD CARD OR CLOSE THE IMAGER UNTIL IT INDICATES THE WRITE IS COMPLETE
+
+> [!NOTE]
 > You may need to use a MicroSD card adapter to insert the SD Card into your Computer
-> NOTE: Your Micro SD Card may display as 'Generic Media Device (capacity'. To ensure you are selecting the right storage device, compare the storage capacity on the SD Card to what is displayed
+
+> [!NOTE]
+> Your Micro SD Card may display as 'Generic Media Device (capacity'. To ensure you are selecting the right storage device, compare the storage capacity on the SD Card to what is displayed
 
 **1B**
 > You may need to use a MicroSD card adapter to insert the SD Card into your Computer
@@ -67,3 +84,4 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+
