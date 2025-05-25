@@ -1,0 +1,80 @@
+2025-03-08 09:45:10,605 - ERROR - [CAM001] Camera initialization failed: Encode stream h264 was not defined
+2025-03-08 09:55:19,538 - INFO - [N/A] Initialization successful.
+2025-03-08 09:55:19,544 - INFO - [N/A] Camera now open.
+2025-03-08 09:55:19,634 - INFO - [N/A] Configuration successful!
+2025-03-08 09:55:19,645 - ERROR - [CAM001] Camera initialization failed: Encode stream h264 was not defined
+2025-03-08 09:55:19,746 - INFO - [N/A] Camera closed successfully.
+2025-03-08 09:59:30,736 - INFO - [N/A] Initialization successful.
+2025-03-08 09:59:30,741 - INFO - [N/A] Camera now open.
+2025-03-08 09:59:30,800 - ERROR - [CAM001] Camera initialization failed: unhashable type: 'dict'
+2025-03-08 09:59:30,946 - INFO - [N/A] Camera closed successfully.
+2025-03-08 10:04:35,166 - INFO - [N/A] Initialization successful.
+2025-03-08 10:04:35,171 - INFO - [N/A] Camera now open.
+2025-03-08 10:04:35,230 - ERROR - [CAM001] Camera initialization failed: Encode stream h264 was not defined
+2025-03-08 10:04:35,373 - INFO - [N/A] Camera closed successfully.
+2025-03-08 10:08:42,723 - INFO - [N/A] Initialization successful.
+2025-03-08 10:08:42,728 - INFO - [N/A] Camera now open.
+2025-03-08 10:08:42,812 - INFO - [N/A] Configuration successful!
+2025-03-08 10:08:43,004 - ERROR - [CAM001] Camera initialization failed: Invalid field 'encoder'
+2025-03-08 10:08:43,178 - INFO - [N/A] Camera closed successfully.
+2025-03-08 12:32:41,845 - INFO - [N/A] Initialization successful.
+2025-03-08 12:32:41,850 - INFO - [N/A] Camera now open.
+2025-03-08 12:32:41,909 - ERROR - [CAM001] Camera initialization failed: unhashable type: 'dict'
+2025-03-08 12:32:42,053 - INFO - [N/A] Camera closed successfully.
+2025-03-08 12:38:23,207 - INFO - Starting recording: libcamera-vid -t 600000 --width 1920 --height 1080 --framerate 15 --codec h264 -o /home/picam/videos/Recording_08-03-25_12-38-23.h264
+2025-03-08 18:37:38,894 - INFO - [N/A] Initialization successful.
+2025-03-08 18:37:38,898 - INFO - [N/A] Camera now open.
+2025-03-08 18:37:38,953 - ERROR - [CAM001] Camera initialization failed: unhashable type: 'dict'
+2025-03-08 18:37:39,102 - INFO - [N/A] Camera closed successfully.
+2025-03-08 18:39:30,597 - INFO - Starting recording: libcamera-vid -t 600000 --width 1920 --height 1080 --framerate 15 --codec h264 -o /home/picam/videos/Recording_08-03-25_18-39-30.h264
+2025-03-08 18:48:43,705 - INFO - Starting recording: libcamera-vid -t 600000 --width 1920 --height 1080 --framerate 15 --codec h264 -o /home/picam/videos/Recording_08-03-25_18-48-43.h264
+2025-03-08 19:04:20,606 - INFO - Config loaded successfully
+2025-03-08 19:04:20,911 - INFO - Initialization successful.
+2025-03-08 19:04:20,915 - ERROR - Camera __init__ sequence did not complete.
+2025-03-08 19:20:19,414 - INFO - Config loaded successfully
+2025-03-08 19:20:21,011 - INFO - Initialization successful.
+2025-03-08 19:20:21,013 - INFO - Camera now open.
+2025-03-08 19:20:21,081 - INFO - Camera configuration has been adjusted!
+2025-03-08 19:20:21,097 - INFO - Configuration successful!
+2025-03-08 19:20:21,331 - INFO - Camera started
+2025-03-08 19:20:21,332 - INFO - Camera initialized successfully
+2025-03-08 19:24:43,169 - INFO - Config loaded successfully
+2025-03-08 19:24:44,672 - INFO - Initialization successful.
+2025-03-08 19:24:44,677 - ERROR - Camera __init__ sequence did not complete.
+2025-03-08 19:24:44,679 - WARNING - Camera init failed (attempt 1), retrying...
+2025-03-08 19:24:49,154 - INFO - Initialization successful.
+2025-03-08 19:24:49,157 - ERROR - Camera __init__ sequence did not complete.
+2025-03-08 19:24:49,161 - WARNING - Camera init failed (attempt 2), retrying...
+2025-03-08 19:24:53,653 - INFO - Initialization successful.
+2025-03-08 19:24:53,656 - ERROR - Camera __init__ sequence did not complete.
+2025-03-08 19:24:53,659 - ERROR - CAM001: Camera initialization failed: Camera __init__ sequence did not complete.
+2025-03-08 19:24:53,661 - ERROR - Fatal error: Camera __init__ sequence did not complete.
+2025-03-08 22:54:15,478 - INFO - Initialization successful.
+2025-03-08 22:54:15,481 - INFO - Camera now open.
+2025-03-08 22:54:15,560 - INFO - Configuration successful!
+2025-03-08 22:54:15,821 - INFO - Camera started
+2025-03-08 22:54:15,822 - INFO - Camera initialized successfully
+2025-03-08 22:56:01,220 - ERROR - Error reading command pipe: 'CameraController' object has no attribute 'stop_recording'
+2025-03-08 22:56:01,223 - INFO - Received stop command
+2025-03-08 22:56:01,225 - ERROR - Error reading command pipe: 'CameraController' object has no attribute 'stop_recording'
+2025-03-08 22:56:11,042 - ERROR - Error reading command pipe: 'CameraController' object has no attribute 'stop_recording'
+2025-03-08 23:09:42,815 - INFO - Config loaded successfully
+2025-03-08 23:09:44,324 - INFO - Initialization successful.
+2025-03-08 23:09:44,328 - ERROR - Camera __init__ sequence did not complete.
+2025-03-08 23:09:44,330 - WARNING - Camera init failed (attempt 1), retrying...
+2025-03-08 23:09:48,794 - INFO - Initialization successful.
+2025-03-08 23:09:48,799 - ERROR - Camera __init__ sequence did not complete.
+2025-03-08 23:09:48,802 - WARNING - Camera init failed (attempt 2), retrying...
+2025-03-08 23:09:53,268 - INFO - Initialization successful.
+2025-03-08 23:09:53,272 - ERROR - Camera __init__ sequence did not complete.
+2025-03-08 23:09:53,273 - ERROR - CAM001: Camera initialization failed: Camera __init__ sequence did not complete.
+2025-03-08 23:15:07,967 - INFO - Config loaded successfully
+2025-03-08 23:15:09,510 - INFO - Initialization successful.
+2025-03-08 23:15:09,512 - INFO - Camera now open.
+2025-03-08 23:15:09,588 - INFO - Configuration successful!
+2025-03-08 23:15:09,816 - INFO - Camera started
+2025-03-08 23:15:09,818 - INFO - Camera initialized successfully
+2025-03-08 23:15:47,754 - INFO - Camera stopped
+2025-03-08 23:15:48,185 - INFO - Camera closed successfully.
+2025-03-08 23:15:48,192 - INFO - Camera resources released
+2025-03-08 23:15:48,196 - INFO - Script stopped gracefully
