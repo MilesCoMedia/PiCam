@@ -1,5 +1,7 @@
-
-# PiCam and PiCam Connect
+<p align="center">
+    <img width="150" src="https://github.com/Tys0nat0r01/PiCam-Connect/blob/d265b4347a5cb87f8b9a870ce9446f9b739ace7e/CONNECTLGO.png" alt="PiCamConnect Logo">
+</p> 
+<h1 align="center">PiCam Connect</h1>
 
 <a href="https://www.buymeacoffee.com/tysonm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 > [!NOTE]
