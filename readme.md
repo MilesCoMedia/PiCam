@@ -47,13 +47,13 @@ Install Raspberry Pi OS Lite (Bullsye) Edition onto an Micro SD Card using Raspb
 5. Then configure your Wi-Fi Network's SSID and Password.
 6. Then click 'SAVE' and click 'Write'. The Imager will begin to write the OS to the Micro SD card.
 > [!WARNING]
-> DO NOT UNPLUG THE SD CARD OR CLOSE THE IMAGER UNTIL IT INDICATES THE WRITE IS COMPLETE
+> **DO NOT UNPLUG THE SD CARD OR CLOSE THE IMAGER UNTIL IT INDICATES THE WRITE IS COMPLETE, Doing so could corrupt the SD Card.**
 
 > [!NOTE]
-> You may need to use a MicroSD card adapter to insert the SD Card into your Computer
+> You may need to use a MicroSD card adapter to insert the SD Card into your Computer.
 
-> [!NOTE]
-> Your Micro SD Card may display as 'Generic Media Device (capacity'. To ensure you are selecting the right storage device, compare the storage capacity on the SD Card to what is displayed
+> [!IMPORTANT]
+> Your Micro SD Card may display as 'Generic Media Device (CAPACITY e.g 64GB)'. To ensure you are selecting the right storage device, compare the storage capacity on the SD Card to what is displayed.
 
 **1B**
 > You may need to use a MicroSD card adapter to insert the SD Card into your Computer
