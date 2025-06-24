@@ -1,28 +1,19 @@
 <p align="center">
-    <img width="150" src="https://github.com/MilesCoMEdia/PiCam/blob/a43414c283be9498c1f7eb952dc2a7d07228a778/CONNECTLGOICON.png" alt="PiCamConnect Logo">
+  <img width="150" src="https://github.com/MilesCoMEdia/PiCam/blob/a43414c283be9498c1f7eb952dc2a7d07228a778/CONNECTLGOICON.png" alt="PiCamConnect Logo">
 </p> 
+
 <h1 align="center">PiCam + PiCam Connect</h1>
 
-<a href="https://www.buymeacoffee.com/tysonm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+> 
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-![Alt text](https://github.com/MilesCoMedia/PiCam/blob/main/CONNECT.png)
-
-PiCam is an affordable dashcam system that can be run on any Raspberry Pi 
-and Raspberry Pi compatible camera and can be easliy integrated into any vehicle. 
+<div align="center">
+  <a href="https://www.buymeacoffee.com/tysonm" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+  </a>
+  <a href="https://github.com/MilesCoMedia/PiCam/wiki" target="_blank">
+    <img src="https://github.com/MilesCoMedia/PiCam/blob/fbe640fc1a126e3e2510d982d8a982fefeb84d3e/View-6.png" alt="PiCam Wiki Link" style="height: 60px !important;width: 217px !important;">
+  </a>
+</div>
 
 ## **Introduction**
 
