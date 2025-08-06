@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" src="https://github.com/MilesCoMEdia/PiCam/blob/a43414c283be9498c1f7eb952dc2a7d07228a778/CONNECTLGOICON.png" alt="PiCamConnect Logo">
+  <img width="150" src="https://github.com/MilesCoMedia/PiCam/blob/7dc0de8d4f252ec6a511e90d2810d0ff1cf49be2/GITSmall/PiCam%20Connect%20APPICON-iOS-Dark-1024x1024%402x.png" alt="PiCamConnect Logo">
 </p> 
 
 <h1 align="center">PiCam + PiCam Connect</h1>
